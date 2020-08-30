@@ -1,0 +1,38 @@
+
+    input[type="button"]
+    {
+        background-color:gray;
+        color: black;
+        border:solid black 2px;
+        width:150px;
+    }
+
+    input[type="text"]
+    {
+        background-color: white;
+        color: ;
+        border: solid black 2 px;
+        width: 550px;
+    }
+
+    table{
+        width: 40%;
+
+    }
+    td{
+        text-align: center;
+        height: 30px;
+        padding: 5px;
+        
+    }
+
+    
+    .subject{
+        margin-bottom: 10px;
+        text-align: center;
+        width:230px;
+        color:maroon;
+        border: solid black 2px;
+    }
+
+   
